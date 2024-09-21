@@ -21,15 +21,15 @@
 
 </div>
 
-NORMAL AND CHILL SCIENCE
+#NORMAL AND CHILL SCIENCE
 
-平常心科学
+##平常心科学
 
 3): AI技术类文章
 
 ---
 
-Slow down but step by step
+###Slow down but step by step
 
 ---
 

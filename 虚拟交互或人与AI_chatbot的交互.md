@@ -21,15 +21,15 @@
 
 </div>
 
-NORMAL AND CHILL SCIENCE
+#NORMAL AND CHILL SCIENCE
 
-平常心科学
+##平常心科学
 
 1) 虚拟交互或人与AI/chatbot的交互
 
 ---
 
-Slow down but step by step
+###Slow down but step by step
 
 ---
 
