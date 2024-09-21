@@ -21,15 +21,15 @@
 
 </div>
 
-#NORMAL AND CHILL SCIENCE
+# NORMAL AND CHILL SCIENCE
 
-##平常心科学
+## 平常心科学
 
-2): 人机协同或人与AI的协同
+### 2): 人机协同或人与AI的协同
 
 ---
 
-###Slow down but step by step
+#### Slow down but step by step
 
 ---
 
